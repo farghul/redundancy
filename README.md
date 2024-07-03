@@ -54,3 +54,7 @@ end
 The source code works better as an Apple Shortcut, as there is a significant delay running **redundancy** when Terminal is open (several closings and reopenings).
 
 ![Apple](apple.webp)
+
+## License
+
+Code is distributed under [The Unlicense](https://github.com/farghul/redundancy/blob/main/LICENSE.md) and is part of the Public Domain.
