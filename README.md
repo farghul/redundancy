@@ -45,7 +45,7 @@ for i in arr do
     e.each do |line|
         f.puts(line)
     end
-    f.close   
+    f.close
 end
 ```
 
